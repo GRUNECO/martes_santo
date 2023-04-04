@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Semana de entrenamiento
+=======
+Semana de entrenamiento
+**hola mundo**
+>>>>>>> 8f415e7eed912d936274d69120ed4122c04d0b21
